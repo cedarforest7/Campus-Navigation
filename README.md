@@ -1,5 +1,4 @@
-# Campus-Navigation
-Campus Navigation Web App
+# Campus Navigation Web App
 
 July 2018
 
